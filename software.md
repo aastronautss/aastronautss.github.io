@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-From the hours of 9am to 5pm on weekdays I write software for [Gusto](https://gusto.com), a company specializing in solving problems for small and medium businesses. I like to write in Ruby and Typescript, and am a staunch proponent of cohesive, well-tested object-oriented architecture. I've helped build close-knit, collaborative teams that deliver high-quality, performant, and maintainable applications.
+Between the hours of 9am to 5pm on weekdays I write software for [Gusto](https://gusto.com), a company specializing in solving problems for small and medium businesses. I like to write in Ruby and Typescript, and am a proponent of expressive, well-tested object-oriented architecture. I've helped build close-knit, collaborative teams that deliver high-quality, performant, and maintainable applications.
 
 Previously, I worked for [Test Double](https://testdouble.com), a consulting agency bent on improving the way the world writes software; and [Touch of Modern](https://touchofmodern.com), a company with a robust, home-built e-commerce platform.
 
