@@ -5,4 +5,4 @@
 layout: home
 ---
 
-I'm Tyler Guillen. I'm a programmer and a photographer based in Brooklyn, New York. I studied philosophy in college, and I build guitar pedals for fun.
+I'm Tyler Guillen. I'm a programmer and a photographer based in New York City. I studied philosophy in college, and I build guitar pedals for fun.

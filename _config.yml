@@ -34,6 +34,7 @@ header_pages:
 
 # Build settings
 plugins:
+  - jekyll-paginate
   - jekyll-feed
 
 markdown: kramdown
@@ -58,7 +59,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
