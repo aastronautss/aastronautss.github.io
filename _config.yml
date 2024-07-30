@@ -28,9 +28,9 @@ twitter_username: timesnewromania
 github_username: aastronautss
 
 header_pages:
-  - software.md
   - photography.md
-  - contact.md
+  - software.md
+  - about.md
 
 # Build settings
 plugins:
