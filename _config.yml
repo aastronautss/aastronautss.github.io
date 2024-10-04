@@ -29,8 +29,8 @@ github_username: aastronautss
 
 header_pages:
   - photography.md
-  - software.md
-  - about.md
+  - software.html
+  - about.html
 
 # Build settings
 plugins:
